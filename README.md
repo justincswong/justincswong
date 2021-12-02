@@ -1,4 +1,4 @@
-### Hi, I'm Justin! 👋
+## Hi, I'm Justin! 👋
 
 <!--
 **justincswong/justincswong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Here are some personal projects I've deployed:
-https://jjdelights.vercel.app/
+#### Here are some personal projects I've deployed (Live):
+https://jjdelights.vercel.app/ \
 https://www.grandseasonsrestaurant.xyz/
