@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 #### Here are some personal projects I've deployed (Live):
 https://jjdelights.vercel.app/ \
-https://www.grandseasonsrestaurant.xyz/
+https://www.grandseasonsrestaurant.xyz/ \
+https://snacktrack.herokuapp.com/ 
