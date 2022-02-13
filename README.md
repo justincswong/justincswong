@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-#### Here are some projects I've deployed (Live):
+#### Here are some projects I've deployed:
 https://jjdelights.vercel.app/ \
 https://www.grandseasonsrestaurant.xyz/ \
-https://snacktrack.herokuapp.com/ (Requires time to start up and a refresh)
+https://snacktrack.herokuapp.com/ \
+https://bread-project.vercel.app/
